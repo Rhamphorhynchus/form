@@ -116,7 +116,7 @@ html {
 }
 
 .form__input:valid:not(:placeholder-shown) {
-	border-color: #ffdb4d;
+	border-color: #dbff4d;
 }
 
 .form__input:invalid:not(:placeholder-shown) {
